@@ -4,7 +4,7 @@
 # Desenvolvido por: Rafael Zonta
 # ==============================================================================
 
-$LogFile = "C:\Windows\Temp\papercutDPMInstall.log"
+$LogFile = "C:\Windows\Temp\InstallDPM003.log"
 # Inicia a transcrição ignorando erros caso o arquivo esteja preso
 Start-Transcript -Path $LogFile -Append -ErrorAction SilentlyContinue
 
